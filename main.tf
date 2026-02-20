@@ -4,7 +4,7 @@ resource "azurerm_resource_group" "rg" {
 }
 
 //dddd
-// added featu
+
 //ererr
 
 resource "azurerm_virtual_network" "vnet" {
