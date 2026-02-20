@@ -3,7 +3,7 @@ resource "azurerm_resource_group" "rg" {
   location = var.rg_location
 }
 
-
+//dddd
 
 resource "azurerm_virtual_network" "vnet" {
   name                = var.vnet_name
